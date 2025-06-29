@@ -9,13 +9,13 @@
 
 -😊 Pronouns: She/her
 
--💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2023.
+-💡 Fun fact: I'm currently studying at International University of Applied Sciences in Applied Artificial Intelligence.
 
--🌱 I’m currently learning JavaScript, CSS, and HTML.
+-🌱 I’m currently learning Python, MachineLearning, Computer Vision alongside with solidity, foundry e.t.c .
 
 -😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 
--💼 Job interests: Software Engineer, Front Engineer, UI Engineer , Backend Engineer  (Intern or Junior level).
+-💼 Job interests: Software Engineer:- Backend Engineer  (Intern or Junior level), Python Engineer, AI engineer .
 
 -📫 You can contact me by emailing dameobaseki1997@gmail.com
 <!---
